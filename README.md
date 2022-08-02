@@ -7,7 +7,7 @@ The Project features an analysis of EPL Standings from the 2000/01 season to the
 
 
 
-![Analysis Dashboard]('/Analysis Dashboard/1.png')
+![Analysis Dashboard](Analysis%20Dashboard/1.png)
 From Analysis, Manchester City, The Current EPL Title Holders are the raving force in the EPL with presence of heavy rivalry between the champions and Liverpool in recent times.
     
 Although Manchester United was the dominant force for a long time in the earlier seasons of the EPL, they experienced a decline in 2012 that they haven't risen from, but managed to clinch 2nd in both the 2017/18 and 2020/21 seasons.
@@ -29,7 +29,15 @@ I dropped Goal Difference and Draws to avoid issues due to multicollinearity
 On Aggerate, As predicted by the Models The 2020/21 Manchester City had a chance of claiming the title but will most probably finish in Second place if they had played in the 2021/22 Season. While the 2020/21 Red devils have a chance of finishing 3rd place and qualifying for the 2023 UEFA Champions League. But, Unfortunately, their 2021/22 version finished at 6th. The Table below shows as predicted by my models how well each team in the 2020/21 season would perform in the succeeding season
 
 
-![App Screenshot]('/Analysis Dashboard/Table.png')
+![App Screenshot](Analysis%20Dashboard/Table.png)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-felix-felix-b4aa7b22a/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Felixfrankfeli5)
+
+
 
 
 
