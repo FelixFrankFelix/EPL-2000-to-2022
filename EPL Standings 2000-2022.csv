@@ -1,0 +1,441 @@
+Season,Pos,Team,Pld,W,D,L,GF,GA,GD,Pts,Qualification or relegation
+2000-01,1,Manchester United,38,24,8,6,79,31,48,80,Qualification for the Champions League first group stage
+2000-01,2,Arsenal,38,20,10,8,63,38,25,70,Qualification for the Champions League first group stage
+2000-01,3,Liverpool,38,20,9,9,71,39,32,69,Qualification for the Champions League third qualifying round[a]
+2000-01,4,Leeds United,38,20,8,10,64,43,21,68,Qualification for the UEFA Cup first round[a]
+2000-01,5,Ipswich Town,38,20,6,12,57,42,15,66,Qualification for the UEFA Cup first round[a]
+2000-01,6,Chelsea,38,17,10,11,68,45,23,61,Qualification for the UEFA Cup first round[a]
+2000-01,7,Sunderland,38,15,12,11,46,41,5,57,Not Applicable
+2000-01,8,Aston Villa,38,13,15,10,46,43,3,54,Qualification for the Intertoto Cup third round
+2000-01,9,Charlton Athletic,38,14,10,14,50,57,-7,52,Not Applicable
+2000-01,10,Southampton,38,14,10,14,40,48,-8,52,Not Applicable
+2000-01,11,Newcastle United,38,14,9,15,44,50,-6,51,Qualification for the Intertoto Cup third round
+2000-01,12,Tottenham Hotspur,38,13,10,15,47,54,-7,49,Not Applicable
+2000-01,13,Leicester City,38,14,6,18,39,51,-12,48,Not Applicable
+2000-01,14,Middlesbrough,38,9,15,14,44,44,0,42,Not Applicable
+2000-01,15,West Ham United,38,10,12,16,45,50,-5,42,Not Applicable
+2000-01,16,Everton,38,11,9,18,45,59,-14,42,Not Applicable
+2000-01,17,Derby County,38,10,12,16,37,59,-22,42,Not Applicable
+2000-01,18,Manchester City,38,8,10,20,41,65,-24,34,Relegation to the Football League First Division
+2000-01,19,Coventry City,38,8,10,20,36,63,-27,34,Relegation to the Football League First Division
+2000-01,20,Bradford City,38,5,11,22,30,70,-40,26,Relegation to the Football League First Division
+2001-02,1,Arsenal,38,26,9,3,79,36,43,87,Qualification for the Champions League first group stage
+2001-02,2,Liverpool,38,24,8,6,67,30,37,80,Qualification for the Champions League first group stage
+2001-02,3,Manchester United,38,24,5,9,87,45,42,77,Qualification for the Champions League third qualifying round
+2001-02,4,Newcastle United,38,21,8,9,74,52,22,71,Qualification for the Champions League third qualifying round
+2001-02,5,Leeds United,38,18,12,8,53,37,16,66,Qualification for the UEFA Cup first round[b]
+2001-02,6,Chelsea,38,17,13,8,66,38,28,64,Qualification for the UEFA Cup first round[b]
+2001-02,7,West Ham United,38,15,8,15,48,57,-9,53,Not Applicable
+2001-02,8,Aston Villa,38,12,14,12,46,47,-1,50,Qualification for the Intertoto Cup third round
+2001-02,9,Tottenham Hotspur,38,14,8,16,49,53,-4,50,Not Applicable
+2001-02,10,Blackburn Rovers,38,12,10,16,55,51,4,46,Qualification for the UEFA Cup first round[c]
+2001-02,11,Southampton,38,12,9,17,46,54,-8,45,Not Applicable
+2001-02,12,Middlesbrough,38,12,9,17,35,47,-12,45,Not Applicable
+2001-02,13,Fulham,38,10,14,14,36,44,-8,44,Qualification for the Intertoto Cup second round
+2001-02,14,Charlton Athletic,38,10,14,14,38,49,-11,44,Not Applicable
+2001-02,15,Everton,38,11,10,17,45,57,-12,43,Not Applicable
+2001-02,16,Bolton Wanderers,38,9,13,16,44,62,-18,40,Not Applicable
+2001-02,17,Sunderland,38,10,10,18,29,51,-22,40,Not Applicable
+2001-02,18,Ipswich Town,38,9,9,20,41,64,-23,36,Qualification for the UEFA Cup qualifying round[a]Relegation to the Football League First Division
+2001-02,19,Derby County,38,8,6,24,33,63,-30,30,Relegation to the Football League First Division
+2001-02,20,Leicester City,38,5,13,20,30,64,-34,28,Relegation to the Football League First Division
+2002-03,1,Manchester United,38,25,8,5,74,34,40,83,Qualification for the Champions League group stage
+2002-03,2,Arsenal,38,23,9,6,85,42,43,78,Qualification for the Champions League group stage
+2002-03,3,Newcastle United,38,21,6,11,63,48,15,69,Qualification for the Champions League third qualifying round
+2002-03,4,Chelsea,38,19,10,9,68,38,30,67,Qualification for the Champions League third qualifying round
+2002-03,5,Liverpool,38,18,10,10,61,41,20,64,Qualification for the UEFA Cup first round[a]
+2002-03,6,Blackburn Rovers,38,16,12,10,52,43,9,60,Qualification for the UEFA Cup first round[a]
+2002-03,7,Everton,38,17,8,13,48,49,-1,59,Not Applicable
+2002-03,8,Southampton,38,13,13,12,43,46,-3,52,Qualification for the UEFA Cup first round[b]
+2002-03,9,Manchester City,38,15,6,17,47,54,-7,51,Qualification for the UEFA Cup qualifying round[c]
+2002-03,10,Tottenham Hotspur,38,14,8,16,51,62,-11,50,Not Applicable
+2002-03,11,Middlesbrough,38,13,10,15,48,44,4,49,Not Applicable
+2002-03,12,Charlton Athletic,38,14,7,17,45,56,-11,49,Not Applicable
+2002-03,13,Birmingham City,38,13,9,16,41,49,-8,48,Not Applicable
+2002-03,14,Fulham,38,13,9,16,41,50,-9,48,Not Applicable
+2002-03,15,Leeds United,38,14,5,19,58,57,1,47,Not Applicable
+2002-03,16,Aston Villa,38,12,9,17,42,47,-5,45,Not Applicable
+2002-03,17,Bolton Wanderers,38,10,14,14,41,51,-10,44,Not Applicable
+2002-03,18,West Ham United,38,10,12,16,42,59,-17,42,Relegation to Football League First Division
+2002-03,19,West Bromwich Albion,38,6,8,24,29,65,-36,26,Relegation to Football League First Division
+2002-03,20,Sunderland,38,4,7,27,21,65,-44,19,Relegation to Football League First Division
+2003-04,1,Arsenal,38,26,12,0,73,26,47,90,Qualification for the Champions League group stage
+2003-04,2,Chelsea,38,24,7,7,67,30,37,79,Qualification for the Champions League group stage
+2003-04,3,Manchester United,38,23,6,9,64,35,29,75,Qualification for the Champions League third qualifying round[a]
+2003-04,4,Liverpool,38,16,12,10,55,37,18,60,Qualification for the Champions League third qualifying round[a]
+2003-04,5,Newcastle United,38,13,17,8,52,40,12,56,Qualification for the UEFA Cup first round
+2003-04,6,Aston Villa,38,15,11,12,48,44,4,56,Not Applicable
+2003-04,7,Charlton Athletic,38,14,11,13,51,51,0,53,Not Applicable
+2003-04,8,Bolton Wanderers,38,14,11,13,48,56,-8,53,Not Applicable
+2003-04,9,Fulham,38,14,10,14,52,46,6,52,Not Applicable
+2003-04,10,Birmingham City,38,12,14,12,43,48,-5,50,Not Applicable
+2003-04,11,Middlesbrough,38,13,9,16,44,52,-8,48,Qualification for the UEFA Cup first round[b]
+2003-04,12,Southampton,38,12,11,15,44,45,-1,47,Not Applicable
+2003-04,13,Portsmouth,38,12,9,17,47,54,-7,45,Not Applicable
+2003-04,14,Tottenham Hotspur,38,13,6,19,47,57,-10,45,Not Applicable
+2003-04,15,Blackburn Rovers,38,12,8,18,51,59,-8,44,Not Applicable
+2003-04,16,Manchester City,38,9,14,15,55,54,1,41,Not Applicable
+2003-04,17,Everton,38,9,12,17,45,57,-12,39,Not Applicable
+2003-04,18,Leicester City,38,6,15,17,48,65,-17,33,Relegation to the Football League Championship
+2003-04,19,Leeds United,38,8,9,21,40,79,-39,33,Relegation to the Football League Championship
+2003-04,20,Wolverhampton Wanderers,38,7,12,19,38,77,-39,33,Relegation to the Football League Championship
+2004-05,1,Chelsea,38,29,8,1,72,15,57,95,Qualification for the Champions League group stage
+2004-05,2,Arsenal,38,25,8,5,87,36,51,83,Qualification for the Champions League group stage
+2004-05,3,Manchester United,38,22,11,5,58,26,32,77,Qualification for the Champions League third qualifying round
+2004-05,4,Everton,38,18,7,13,45,46,-1,61,Qualification for the Champions League third qualifying round
+2004-05,5,Liverpool,38,17,7,14,52,41,11,58,Qualification for the Champions League first qualifying round[a]
+2004-05,6,Bolton Wanderers,38,16,10,12,49,44,5,58,Qualification for the UEFA Cup first round[b]
+2004-05,7,Middlesbrough,38,14,13,11,53,46,7,55,Qualification for the UEFA Cup first round[b]
+2004-05,8,Manchester City,38,13,13,12,47,39,8,52,Not Applicable
+2004-05,9,Tottenham Hotspur,38,14,10,14,47,41,6,52,Not Applicable
+2004-05,10,Aston Villa,38,12,11,15,45,52,-7,47,Not Applicable
+2004-05,11,Charlton Athletic,38,12,10,16,42,58,-16,46,Not Applicable
+2004-05,12,Birmingham City,38,11,12,15,40,46,-6,45,Not Applicable
+2004-05,13,Fulham,38,12,8,18,52,60,-8,44,Not Applicable
+2004-05,14,Newcastle United,38,10,14,14,47,57,-10,44,Qualification for the Intertoto Cup third round
+2004-05,15,Blackburn Rovers,38,9,15,14,32,43,-11,42,Not Applicable
+2004-05,16,Portsmouth,38,10,9,19,43,59,-16,39,Not Applicable
+2004-05,17,West Bromwich Albion,38,6,16,16,36,61,-25,34,Not Applicable
+2004-05,18,Crystal Palace,38,7,12,19,41,62,-21,33,Relegation to the Football League Championship
+2004-05,19,Norwich City,38,7,12,19,42,77,-35,33,Relegation to the Football League Championship
+2004-05,20,Southampton,38,6,14,18,45,66,-21,32,Relegation to the Football League Championship
+2005-06,1,Chelsea,38,29,4,5,72,22,50,91,Qualification for the Champions League group stage[a]
+2005-06,2,Manchester United,38,25,8,5,72,34,38,83,Qualification for the Champions League group stage[a]
+2005-06,3,Liverpool,38,25,7,6,57,25,32,82,Qualification for the Champions League third qualifying round
+2005-06,4,Arsenal,38,20,7,11,68,31,37,67,Qualification for the Champions League third qualifying round
+2005-06,5,Tottenham Hotspur,38,18,11,9,53,38,15,65,Qualification for the UEFA Cup first round
+2005-06,6,Blackburn Rovers,38,19,6,13,51,42,9,63,Qualification for the UEFA Cup first round
+2005-06,7,Newcastle United,38,17,7,14,47,42,5,58,Qualification for the Intertoto Cup third round
+2005-06,8,Bolton Wanderers,38,15,11,12,49,41,8,56,Not Applicable
+2005-06,9,West Ham United,38,16,7,15,52,55,-3,55,Qualification for the UEFA Cup first round[b]
+2005-06,10,Wigan Athletic,38,15,6,17,45,52,-7,51,Not Applicable
+2005-06,11,Everton,38,14,8,16,34,49,-15,50,Not Applicable
+2005-06,12,Fulham,38,14,6,18,48,58,-10,48,Not Applicable
+2005-06,13,Charlton Athletic,38,13,8,17,41,55,-14,47,Not Applicable
+2005-06,14,Middlesbrough,38,12,9,17,48,58,-10,45,Not Applicable
+2005-06,15,Manchester City,38,13,4,21,43,48,-5,43,Not Applicable
+2005-06,16,Aston Villa,38,10,12,16,42,55,-13,42,Not Applicable
+2005-06,17,Portsmouth,38,10,8,20,37,62,-25,38,Not Applicable
+2005-06,18,Birmingham City,38,8,10,20,28,50,-22,34,Relegation to the Football League Championship
+2005-06,19,West Bromwich Albion,38,7,9,22,31,58,-27,30,Relegation to the Football League Championship
+2005-06,20,Sunderland,38,3,6,29,26,69,-43,15,Relegation to the Football League Championship
+2006-07,1,Manchester United,38,28,5,5,83,27,56,89,Qualification for the Champions League group stage
+2006-07,2,Chelsea,38,24,11,3,64,24,40,83,Qualification for the Champions League group stage
+2006-07,3,Liverpool,38,20,8,10,57,27,30,68,Qualification for the Champions League third qualifying round
+2006-07,4,Arsenal,38,19,11,8,63,35,28,68,Qualification for the Champions League third qualifying round
+2006-07,5,Tottenham Hotspur,38,17,9,12,57,54,3,60,Qualification for the UEFA Cup first round[a]
+2006-07,6,Everton,38,15,13,10,52,36,16,58,Qualification for the UEFA Cup first round[a]
+2006-07,7,Bolton Wanderers,38,16,8,14,47,52,-5,56,Qualification for the UEFA Cup first round[a]
+2006-07,8,Reading,38,16,7,15,52,47,5,55,Not Applicable
+2006-07,9,Portsmouth,38,14,12,12,45,42,3,54,Not Applicable
+2006-07,10,Blackburn Rovers,38,15,7,16,52,54,-2,52,Qualification for the Intertoto Cup third round[b]
+2006-07,11,Aston Villa,38,11,17,10,43,41,2,50,Not Applicable
+2006-07,12,Middlesbrough,38,12,10,16,44,49,-5,46,Not Applicable
+2006-07,13,Newcastle United,38,11,10,17,38,47,-9,43,Not Applicable
+2006-07,14,Manchester City,38,11,9,18,29,44,-15,42,Not Applicable
+2006-07,15,West Ham United,38,12,5,21,35,59,-24,41,Not Applicable
+2006-07,16,Fulham,38,8,15,15,38,60,-22,39,Not Applicable
+2006-07,17,Wigan Athletic,38,10,8,20,37,59,-22,38,Not Applicable
+2006-07,18,Sheffield United,38,10,8,20,32,55,-23,38,Relegation to the Football League Championship
+2006-07,19,Charlton Athletic,38,8,10,20,34,60,-26,34,Relegation to the Football League Championship
+2006-07,20,Watford,38,5,13,20,29,59,-30,28,Relegation to the Football League Championship
+2007-08,1,Manchester United,38,27,6,5,80,22,58,87,Qualification for the Champions League group stage
+2007-08,2,Chelsea,38,25,10,3,65,26,39,85,Qualification for the Champions League group stage
+2007-08,3,Arsenal,38,24,11,3,74,31,43,83,Qualification for the Champions League third qualifying round
+2007-08,4,Liverpool,38,21,13,4,67,28,39,76,Qualification for the Champions League third qualifying round
+2007-08,5,Everton,38,19,8,11,55,33,22,65,Qualification for the UEFA Cup first round
+2007-08,6,Aston Villa,38,16,12,10,71,51,20,60,Qualification for the Intertoto Cup third round
+2007-08,7,Blackburn Rovers,38,15,13,10,50,48,2,58,Not Applicable
+2007-08,8,Portsmouth,38,16,9,13,48,40,8,57,Qualification for the UEFA Cup first round[a]
+2007-08,9,Manchester City,38,15,10,13,45,53,-8,55,Qualification for the UEFA Cup first qualifying round[b]
+2007-08,10,West Ham United,38,13,10,15,42,50,-8,49,Not Applicable
+2007-08,11,Tottenham Hotspur,38,11,13,14,66,61,5,46,Qualification for the UEFA Cup first round[c]
+2007-08,12,Newcastle United,38,11,10,17,45,65,-20,43,Not Applicable
+2007-08,13,Middlesbrough,38,10,12,16,43,53,-10,42,Not Applicable
+2007-08,14,Wigan Athletic,38,10,10,18,34,51,-17,40,Not Applicable
+2007-08,15,Sunderland,38,11,6,21,36,59,-23,39,Not Applicable
+2007-08,16,Bolton Wanderers,38,9,10,19,36,54,-18,37,Not Applicable
+2007-08,17,Fulham,38,8,12,18,38,60,-22,36,Not Applicable
+2007-08,18,Reading,38,10,6,22,41,66,-25,36,Relegation to the Football League Championship
+2007-08,19,Birmingham City,38,8,11,19,46,62,-16,35,Relegation to the Football League Championship
+2007-08,20,Derby County,38,1,8,29,20,89,-69,11,Relegation to the Football League Championship
+2008-09,1,Manchester United,38,28,6,4,68,24,44,90,Qualification for the Champions League group stage[a]
+2008-09,2,Liverpool,38,25,11,2,77,27,50,86,Qualification for the Champions League group stage[a]
+2008-09,3,Chelsea,38,25,8,5,68,24,44,83,Qualification for the Champions League group stage[a]
+2008-09,4,Arsenal,38,20,12,6,68,37,31,72,Qualification for the Champions League play-off round
+2008-09,5,Everton,38,17,12,9,55,37,18,63,Qualification for the Europa League play-off round[a]
+2008-09,6,Aston Villa,38,17,11,10,54,48,6,62,Qualification for the Europa League play-off round[a]
+2008-09,7,Fulham,38,14,11,13,39,34,5,53,Qualification for the Europa League third qualifying round[a]
+2008-09,8,Tottenham Hotspur,38,14,9,15,45,45,0,51,Not Applicable
+2008-09,9,West Ham United,38,14,9,15,42,45,-3,51,Not Applicable
+2008-09,10,Manchester City,38,15,5,18,58,50,8,50,Not Applicable
+2008-09,11,Wigan Athletic,38,12,9,17,34,45,-11,45,Not Applicable
+2008-09,12,Stoke City,38,12,9,17,38,55,-17,45,Not Applicable
+2008-09,13,Bolton Wanderers,38,11,8,19,41,53,-12,41,Not Applicable
+2008-09,14,Portsmouth,38,10,11,17,38,57,-19,41,Not Applicable
+2008-09,15,Blackburn Rovers,38,10,11,17,40,60,-20,41,Not Applicable
+2008-09,16,Sunderland,38,9,9,20,34,54,-20,36,Not Applicable
+2008-09,17,Hull City,38,8,11,19,39,64,-25,35,Not Applicable
+2008-09,18,Newcastle United,38,7,13,18,40,59,-19,34,Relegation to the Football League Championship
+2008-09,19,Middlesbrough,38,7,11,20,28,57,-29,32,Relegation to the Football League Championship
+2008-09,20,West Bromwich Albion,38,8,8,22,36,67,-31,32,Relegation to the Football League Championship
+2009-10,1,Chelsea,38,27,5,6,103,32,71,86,Qualification for the Champions League group stage
+2009-10,2,Manchester United,38,27,4,7,86,28,58,85,Qualification for the Champions League group stage
+2009-10,3,Arsenal,38,23,6,9,83,41,42,75,Qualification for the Champions League group stage
+2009-10,4,Tottenham Hotspur,38,21,7,10,67,41,26,70,Qualification for the Champions League play-off round
+2009-10,5,Manchester City,38,18,13,7,73,45,28,67,Qualification for the Europa League play-off round[a]
+2009-10,6,Aston Villa,38,17,13,8,52,39,13,64,Qualification for the Europa League play-off round[a]
+2009-10,7,Liverpool,38,18,9,11,61,35,26,63,Qualification for the Europa League third qualifying round[b]
+2009-10,8,Everton,38,16,13,9,60,49,11,61,Not Applicable
+2009-10,9,Birmingham City,38,13,11,14,38,47,-9,50,Not Applicable
+2009-10,10,Blackburn Rovers,38,13,11,14,41,55,-14,50,Not Applicable
+2009-10,11,Stoke City,38,11,14,13,34,48,-14,47,Not Applicable
+2009-10,12,Fulham,38,12,10,16,39,46,-7,46,Not Applicable
+2009-10,13,Sunderland,38,11,11,16,48,56,-8,44,Not Applicable
+2009-10,14,Bolton Wanderers,38,10,9,19,42,67,-25,39,Not Applicable
+2009-10,15,Wolverhampton Wanderers,38,9,11,18,32,56,-24,38,Not Applicable
+2009-10,16,Wigan Athletic,38,9,9,20,37,79,-42,36,Not Applicable
+2009-10,17,West Ham United,38,8,11,19,47,66,-19,35,Not Applicable
+2009-10,18,Burnley,38,8,6,24,42,82,-40,30,Relegation to the Football League Championship
+2009-10,19,Hull City,38,6,12,20,34,75,-41,30,Relegation to the Football League Championship
+2009-10,20,Portsmouth,38,7,7,24,34,66,-32,19,Relegation to the Football League Championship
+2010-11,1,Manchester United,38,23,11,4,78,37,41,80,Qualification for the Champions League group stage
+2010-11,2,Chelsea,38,21,8,9,69,33,36,71,Qualification for the Champions League group stage
+2010-11,3,Manchester City,38,21,8,9,60,33,27,71,Qualification for the Champions League group stage
+2010-11,4,Arsenal,38,19,11,8,72,43,29,68,Qualification for the Champions League play-off round
+2010-11,5,Tottenham Hotspur,38,16,14,8,55,46,9,62,Qualification for the Europa League play-off round
+2010-11,6,Liverpool,38,17,7,14,59,44,15,58,Not Applicable
+2010-11,7,Everton,38,13,15,10,51,45,6,54,Not Applicable
+2010-11,8,Fulham,38,11,16,11,49,43,6,49,Qualification for the Europa League first qualifying round[b]
+2010-11,9,Aston Villa,38,12,12,14,48,59,-11,48,Not Applicable
+2010-11,10,Sunderland,38,12,11,15,45,56,-11,47,Not Applicable
+2010-11,11,West Bromwich Albion,38,12,11,15,56,71,-15,47,Not Applicable
+2010-11,12,Newcastle United,38,11,13,14,56,57,-1,46,Not Applicable
+2010-11,13,Stoke City,38,13,7,18,46,48,-2,46,Qualification for the Europa League third qualifying round[c]
+2010-11,14,Bolton Wanderers,38,12,10,16,52,56,-4,46,Not Applicable
+2010-11,15,Blackburn Rovers,38,11,10,17,46,59,-13,43,Not Applicable
+2010-11,16,Wigan Athletic,38,9,15,14,40,61,-21,42,Not Applicable
+2010-11,17,Wolverhampton Wanderers,38,11,7,20,46,66,-20,40,Not Applicable
+2010-11,18,Birmingham City,38,8,15,15,37,58,-21,39,Qualification for the Europa League play-off round[a]Relegation to the Football League Championship
+2010-11,19,Blackpool,38,10,9,19,55,78,-23,39,Relegation to the Football League Championship
+2010-11,20,West Ham United,38,7,12,19,43,70,-27,33,Relegation to the Football League Championship
+2011-12,1,Manchester City,38,28,5,5,93,29,64,89,Qualification for the Champions League group stage
+2011-12,2,Manchester United,38,28,5,5,89,33,56,89,Qualification for the Champions League group stage
+2011-12,3,Arsenal,38,21,7,10,74,49,25,70,Qualification for the Champions League group stage
+2011-12,4,Tottenham Hotspur,38,20,9,9,66,41,25,69,Qualification for the Europa League group stage[a]
+2011-12,5,Newcastle United,38,19,8,11,56,51,5,65,Qualification for the Europa League play-off round[a]
+2011-12,6,Chelsea,38,18,10,10,65,46,19,64,Qualification for the Champions League group stage[a]
+2011-12,7,Everton,38,15,11,12,50,40,10,56,Not Applicable
+2011-12,8,Liverpool,38,14,10,14,47,40,7,52,Qualification for the Europa League third qualifying round[b]
+2011-12,9,Fulham,38,14,10,14,48,51,-3,52,Not Applicable
+2011-12,10,West Bromwich Albion,38,13,8,17,45,52,-7,47,Not Applicable
+2011-12,11,Swansea City,38,12,11,15,44,51,-7,47,Not Applicable
+2011-12,12,Norwich City,38,12,11,15,52,66,-14,47,Not Applicable
+2011-12,13,Sunderland,38,11,12,15,45,46,-1,45,Not Applicable
+2011-12,14,Stoke City,38,11,12,15,36,53,-17,45,Not Applicable
+2011-12,15,Wigan Athletic,38,11,10,17,42,62,-20,43,Not Applicable
+2011-12,16,Aston Villa,38,7,17,14,37,53,-16,38,Not Applicable
+2011-12,17,Queens Park Rangers,38,10,7,21,43,66,-23,37,Not Applicable
+2011-12,18,Bolton Wanderers,38,10,6,22,46,77,-31,36,Relegation to the Football League Championship
+2011-12,19,Blackburn Rovers,38,8,7,23,48,78,-30,31,Relegation to the Football League Championship
+2011-12,20,Wolverhampton Wanderers,38,5,10,23,40,82,-42,25,Relegation to the Football League Championship
+2012-13,1,Manchester United,38,28,5,5,86,43,43,89,Qualification for the Champions League group stage[a]
+2012-13,2,Manchester City,38,23,9,6,66,34,32,78,Qualification for the Champions League group stage[a]
+2012-13,3,Chelsea,38,22,9,7,75,39,36,75,Qualification for the Champions League group stage[a]
+2012-13,4,Arsenal,38,21,10,7,72,37,35,73,Qualification for the Champions League play-off round
+2012-13,5,Tottenham Hotspur,38,21,9,8,66,46,20,72,Qualification for the Europa League play-off round
+2012-13,6,Everton,38,16,15,7,55,40,15,63,Not Applicable
+2012-13,7,Liverpool,38,16,13,9,71,43,28,61,Not Applicable
+2012-13,8,West Bromwich Albion,38,14,7,17,53,57,-4,49,Not Applicable
+2012-13,9,Swansea City,38,11,13,14,47,51,-4,46,Qualification for the Europa League third qualifying round[c]
+2012-13,10,West Ham United,38,12,10,16,45,53,-8,46,Not Applicable
+2012-13,11,Norwich City,38,10,14,14,41,58,-17,44,Not Applicable
+2012-13,12,Fulham,38,11,10,17,50,60,-10,43,Not Applicable
+2012-13,13,Stoke City,38,9,15,14,34,45,-11,42,Not Applicable
+2012-13,14,Southampton,38,9,14,15,49,60,-11,41,Not Applicable
+2012-13,15,Aston Villa,38,10,11,17,47,69,-22,41,Not Applicable
+2012-13,16,Newcastle United,38,11,8,19,45,68,-23,41,Not Applicable
+2012-13,17,Sunderland,38,9,12,17,41,54,-13,39,Not Applicable
+2012-13,18,Wigan Athletic,38,9,9,20,47,73,-26,36,Qualification for the Europa League group stage[b]Relegation to the Football League Championship
+2012-13,19,Reading,38,6,10,22,43,73,-30,28,Relegation to the Football League Championship
+2012-13,20,Queens Park Rangers,38,4,13,21,30,60,-30,25,Relegation to the Football League Championship
+2013-14,1,Manchester City,38,27,5,6,102,37,65,86,Qualification for the Champions League group stage
+2013-14,2,Liverpool,38,26,6,6,101,50,51,84,Qualification for the Champions League group stage
+2013-14,3,Chelsea,38,25,7,6,71,27,44,82,Qualification for the Champions League group stage
+2013-14,4,Arsenal,38,24,7,7,68,41,27,79,Qualification for the Champions League play-off round
+2013-14,5,Everton,38,21,9,8,61,39,22,72,Qualification for the Europa League group stage
+2013-14,6,Tottenham Hotspur,38,21,6,11,55,51,4,69,Qualification for the Europa League play-off round[a]
+2013-14,7,Manchester United,38,19,7,12,64,43,21,64,Not Applicable
+2013-14,8,Southampton,38,15,11,12,54,46,8,56,Not Applicable
+2013-14,9,Stoke City,38,13,11,14,45,52,-7,50,Not Applicable
+2013-14,10,Newcastle United,38,15,4,19,43,59,-16,49,Not Applicable
+2013-14,11,Crystal Palace,38,13,6,19,33,48,-15,45,Not Applicable
+2013-14,12,Swansea City,38,11,9,18,54,54,0,42,Not Applicable
+2013-14,13,West Ham United,38,11,7,20,40,51,-11,40,Not Applicable
+2013-14,14,Sunderland,38,10,8,20,41,60,-19,38,Not Applicable
+2013-14,15,Aston Villa,38,10,8,20,39,61,-22,38,Not Applicable
+2013-14,16,Hull City,38,10,7,21,38,53,-15,37,Qualification for the Europa League third qualifying round[b]
+2013-14,17,West Bromwich Albion,38,7,15,16,43,59,-16,36,Not Applicable
+2013-14,18,Norwich City,38,8,9,21,28,62,-34,33,Relegation to the Football League Championship
+2013-14,19,Fulham,38,9,5,24,40,85,-45,32,Relegation to the Football League Championship
+2013-14,20,Cardiff City,38,7,9,22,32,74,-42,30,Relegation to the Football League Championship
+2014-15,1,Chelsea,38,26,9,3,73,32,41,87,Qualification for the Champions League group stage
+2014-15,2,Manchester City,38,24,7,7,83,38,45,79,Qualification for the Champions League group stage
+2014-15,3,Arsenal,38,22,9,7,71,36,35,75,Qualification for the Champions League group stage
+2014-15,4,Manchester United,38,20,10,8,62,37,25,70,Qualification for the Champions League play-off round
+2014-15,5,Tottenham Hotspur,38,19,7,12,58,53,5,64,Qualification for the Europa League group stage[a]
+2014-15,6,Liverpool,38,18,8,12,52,48,4,62,Qualification for the Europa League group stage[a]
+2014-15,7,Southampton,38,18,6,14,54,33,21,60,Qualification for the Europa League third qualifying round[a]
+2014-15,8,Swansea City,38,16,8,14,46,49,-3,56,Not Applicable
+2014-15,9,Stoke City,38,15,9,14,48,45,3,54,Not Applicable
+2014-15,10,Crystal Palace,38,13,9,16,47,51,-4,48,Not Applicable
+2014-15,11,Everton,38,12,11,15,48,50,-2,47,Not Applicable
+2014-15,12,West Ham United,38,12,11,15,44,47,-3,47,Qualification for the Europa League first qualifying round[b]
+2014-15,13,West Bromwich Albion,38,11,11,16,38,51,-13,44,Not Applicable
+2014-15,14,Leicester City,38,11,8,19,46,55,-9,41,Not Applicable
+2014-15,15,Newcastle United,38,10,9,19,40,63,-23,39,Not Applicable
+2014-15,16,Sunderland,38,7,17,14,31,53,-22,38,Not Applicable
+2014-15,17,Aston Villa,38,10,8,20,31,57,-26,38,Not Applicable
+2014-15,18,Hull City,38,8,11,19,33,51,-18,35,Relegation to the Football League Championship
+2014-15,19,Burnley,38,7,12,19,28,53,-25,33,Relegation to the Football League Championship
+2014-15,20,Queens Park Rangers,38,8,6,24,42,73,-31,30,Relegation to the Football League Championship
+2015-16,1,Leicester City,38,23,12,3,68,36,32,81,Qualification for the Champions League group stage
+2015-16,2,Arsenal,38,20,11,7,65,36,29,71,Qualification for the Champions League group stage
+2015-16,3,Tottenham Hotspur,38,19,13,6,69,35,34,70,Qualification for the Champions League group stage
+2015-16,4,Manchester City,38,19,9,10,71,41,30,66,Qualification for the Champions League play-off round
+2015-16,5,Manchester United,38,19,9,10,49,35,14,66,Qualification for the Europa League group stage[a]
+2015-16,6,Southampton,38,18,9,11,59,41,18,63,Qualification for the Europa League group stage[a]
+2015-16,7,West Ham United,38,16,14,8,65,51,14,62,Qualification for the Europa League third qualifying round[b]
+2015-16,8,Liverpool,38,16,12,10,63,50,13,60,Not Applicable
+2015-16,9,Stoke City,38,14,9,15,41,55,-14,51,Not Applicable
+2015-16,10,Chelsea,38,12,14,12,59,53,6,50,Not Applicable
+2015-16,11,Everton,38,11,14,13,59,55,4,47,Not Applicable
+2015-16,12,Swansea City,38,12,11,15,42,52,-10,47,Not Applicable
+2015-16,13,Watford,38,12,9,17,40,50,-10,45,Not Applicable
+2015-16,14,West Bromwich Albion,38,10,13,15,34,48,-14,43,Not Applicable
+2015-16,15,Crystal Palace,38,11,9,18,39,51,-12,42,Not Applicable
+2015-16,16,Bournemouth,38,11,9,18,45,67,-22,42,Not Applicable
+2015-16,17,Sunderland,38,9,12,17,48,62,-14,39,Not Applicable
+2015-16,18,Newcastle United,38,9,10,19,44,65,-21,37,Relegation to the EFL Championship
+2015-16,19,Norwich City,38,9,7,22,39,67,-28,34,Relegation to the EFL Championship
+2015-16,20,Aston Villa,38,3,8,27,27,76,-49,17,Relegation to the EFL Championship
+2016-17,1,Chelsea,38,30,3,5,85,33,52,93,Qualification for the Champions League group stage
+2016-17,2,Tottenham Hotspur,38,26,8,4,86,26,60,86,Qualification for the Champions League group stage
+2016-17,3,Manchester City,38,23,9,6,80,39,41,78,Qualification for the Champions League group stage
+2016-17,4,Liverpool,38,22,10,6,78,42,36,76,Qualification for the Champions League play-off round
+2016-17,5,Arsenal,38,23,6,9,77,44,33,75,Qualification for the Europa League group stage[a]
+2016-17,6,Manchester United,38,18,15,5,54,29,25,69,Qualification for the Champions League group stage[b]
+2016-17,7,Everton,38,17,10,11,62,44,18,61,Qualification for the Europa League third qualifying round[c]
+2016-17,8,Southampton,38,12,10,16,41,48,-7,46,Not Applicable
+2016-17,9,Bournemouth,38,12,10,16,55,67,-12,46,Not Applicable
+2016-17,10,West Bromwich Albion,38,12,9,17,43,51,-8,45,Not Applicable
+2016-17,11,West Ham United,38,12,9,17,47,64,-17,45,Not Applicable
+2016-17,12,Leicester City,38,12,8,18,48,63,-15,44,Not Applicable
+2016-17,13,Stoke City,38,11,11,16,41,56,-15,44,Not Applicable
+2016-17,14,Crystal Palace,38,12,5,21,50,63,-13,41,Not Applicable
+2016-17,15,Swansea City,38,12,5,21,45,70,-25,41,Not Applicable
+2016-17,16,Burnley,38,11,7,20,39,55,-16,40,Not Applicable
+2016-17,17,Watford,38,11,7,20,40,68,-28,40,Not Applicable
+2016-17,18,Hull City,38,9,7,22,37,80,-43,34,Relegation to the EFL Championship
+2016-17,19,Middlesbrough,38,5,13,20,27,53,-26,28,Relegation to the EFL Championship
+2016-17,20,Sunderland,38,6,6,26,29,69,-40,24,Relegation to the EFL Championship
+2017-18,1,Manchester City,38,32,4,2,106,27,79,100,Qualification for the Champions League group stage
+2017-18,2,Manchester United,38,25,6,7,68,28,40,81,Qualification for the Champions League group stage
+2017-18,3,Tottenham Hotspur,38,23,8,7,74,36,38,77,Qualification for the Champions League group stage
+2017-18,4,Liverpool,38,21,12,5,84,38,46,75,Qualification for the Champions League group stage
+2017-18,5,Chelsea,38,21,7,10,62,38,24,70,Qualification for the Europa League group stage[a]
+2017-18,6,Arsenal,38,19,6,13,74,51,23,63,Qualification for the Europa League group stage[a]
+2017-18,7,Burnley,38,14,12,12,36,39,-3,54,Qualification for the Europa League second qualifying round[a]
+2017-18,8,Everton,38,13,10,15,44,58,-14,49,Not Applicable
+2017-18,9,Leicester City,38,12,11,15,56,60,-4,47,Not Applicable
+2017-18,10,Newcastle United,38,12,8,18,39,47,-8,44,Not Applicable
+2017-18,11,Crystal Palace,38,11,11,16,45,55,-10,44,Not Applicable
+2017-18,12,Bournemouth,38,11,11,16,45,61,-16,44,Not Applicable
+2017-18,13,West Ham United,38,10,12,16,48,68,-20,42,Not Applicable
+2017-18,14,Watford,38,11,8,19,44,64,-20,41,Not Applicable
+2017-18,15,Brighton & Hove Albion,38,9,13,16,34,54,-20,40,Not Applicable
+2017-18,16,Huddersfield Town,38,9,10,19,28,58,-30,37,Not Applicable
+2017-18,17,Southampton,38,7,15,16,37,56,-19,36,Not Applicable
+2017-18,18,Swansea City,38,8,9,21,28,56,-28,33,Relegation to the EFL Championship
+2017-18,19,Stoke City,38,7,12,19,35,68,-33,33,Relegation to the EFL Championship
+2017-18,20,West Bromwich Albion,38,6,13,19,31,56,-25,31,Relegation to the EFL Championship
+2018-19,1,Manchester City,38,32,2,4,95,23,72,98,Qualification for the Champions League group stage
+2018-19,2,Liverpool,38,30,7,1,89,22,67,97,Qualification for the Champions League group stage
+2018-19,3,Chelsea,38,21,9,8,63,39,24,72,Qualification for the Champions League group stage
+2018-19,4,Tottenham Hotspur,38,23,2,13,67,39,28,71,Qualification for the Champions League group stage
+2018-19,5,Arsenal,38,21,7,10,73,51,22,70,Qualification for the Europa League group stage[a]
+2018-19,6,Manchester United,38,19,9,10,65,54,11,66,Qualification for the Europa League group stage[a]
+2018-19,7,Wolverhampton Wanderers,38,16,9,13,47,46,1,57,Qualification for the Europa League second qualifying round[a]
+2018-19,8,Everton,38,15,9,14,54,46,8,54,Not Applicable
+2018-19,9,Leicester City,38,15,7,16,51,48,3,52,Not Applicable
+2018-19,10,West Ham United,38,15,7,16,52,55,-3,52,Not Applicable
+2018-19,11,Watford,38,14,8,16,52,59,-7,50,Not Applicable
+2018-19,12,Crystal Palace,38,14,7,17,51,53,-2,49,Not Applicable
+2018-19,13,Newcastle United,38,12,9,17,42,48,-6,45,Not Applicable
+2018-19,14,Bournemouth,38,13,6,19,56,70,-14,45,Not Applicable
+2018-19,15,Burnley,38,11,7,20,45,68,-23,40,Not Applicable
+2018-19,16,Southampton,38,9,12,17,45,65,-20,39,Not Applicable
+2018-19,17,Brighton & Hove Albion,38,9,9,20,35,60,-25,36,Not Applicable
+2018-19,18,Cardiff City,38,10,4,24,34,69,-35,34,Relegation to the EFL Championship
+2018-19,19,Fulham,38,7,5,26,34,81,-47,26,Relegation to the EFL Championship
+2018-19,20,Huddersfield Town,38,3,7,28,22,76,-54,16,Relegation to the EFL Championship
+2019-20,1,Liverpool,38,32,3,3,85,33,52,99,Qualification for the Champions League group stage
+2019-20,2,Manchester City,38,26,3,9,102,35,67,81,Qualification for the Champions League group stage
+2019-20,3,Manchester United,38,18,12,8,66,36,30,66,Qualification for the Champions League group stage
+2019-20,4,Chelsea,38,20,6,12,69,54,15,66,Qualification for the Champions League group stage
+2019-20,5,Leicester City,38,18,8,12,67,41,26,62,Qualification for the Europa League group stage
+2019-20,6,Tottenham Hotspur,38,16,11,11,61,47,14,59,Qualification for the Europa League second qualifying round[a]
+2019-20,7,Wolverhampton Wanderers,38,15,14,9,51,40,11,59,Not Applicable
+2019-20,8,Arsenal,38,14,14,10,56,48,8,56,Qualification for the Europa League group stage[b]
+2019-20,9,Sheffield United,38,14,12,12,39,39,0,54,Not Applicable
+2019-20,10,Burnley,38,15,9,14,43,50,-7,54,Not Applicable
+2019-20,11,Southampton,38,15,7,16,51,60,-9,52,Not Applicable
+2019-20,12,Everton,38,13,10,15,44,56,-12,49,Not Applicable
+2019-20,13,Newcastle United,38,11,11,16,38,58,-20,44,Not Applicable
+2019-20,14,Crystal Palace,38,11,10,17,31,50,-19,43,Not Applicable
+2019-20,15,Brighton & Hove Albion,38,9,14,15,39,54,-15,41,Not Applicable
+2019-20,16,West Ham United,38,10,9,19,49,62,-13,39,Not Applicable
+2019-20,17,Aston Villa,38,9,8,21,41,67,-26,35,Not Applicable
+2019-20,18,Bournemouth,38,9,7,22,40,65,-25,34,Relegation to the EFL Championship
+2019-20,19,Watford,38,8,10,20,36,64,-28,34,Relegation to the EFL Championship
+2019-20,20,Norwich City,38,5,6,27,26,75,-49,21,Relegation to the EFL Championship
+2020-21,1,Manchester City,38,27,5,6,83,32,51,86,Qualification for the Champions League group stage
+2020-21,2,Manchester United,38,21,11,6,73,44,29,74,Qualification for the Champions League group stage
+2020-21,3,Liverpool,38,20,9,9,68,42,26,69,Qualification for the Champions League group stage
+2020-21,4,Chelsea,38,19,10,9,58,36,22,67,Qualification for the Champions League group stage
+2020-21,5,Leicester City,38,20,6,12,68,50,18,66,Qualification for the Europa League group stage[a]
+2020-21,6,West Ham United,38,19,8,11,62,47,15,65,Qualification for the Europa League group stage[a]
+2020-21,7,Tottenham Hotspur,38,18,8,12,68,45,23,62,Qualification for the Europa Conference League play-off round[b]
+2020-21,8,Arsenal,38,18,7,13,55,39,16,61,Not Applicable
+2020-21,9,Leeds United,38,18,5,15,62,54,8,59,Not Applicable
+2020-21,10,Everton,38,17,8,13,47,48,-1,59,Not Applicable
+2020-21,11,Aston Villa,38,16,7,15,55,46,9,55,Not Applicable
+2020-21,12,Newcastle United,38,12,9,17,46,62,-16,45,Not Applicable
+2020-21,13,Wolverhampton Wanderers,38,12,9,17,36,52,-16,45,Not Applicable
+2020-21,14,Crystal Palace,38,12,8,18,41,66,-25,44,Not Applicable
+2020-21,15,Southampton,38,12,7,19,47,68,-21,43,Not Applicable
+2020-21,16,Brighton & Hove Albion,38,9,14,15,40,46,-6,41,Not Applicable
+2020-21,17,Burnley,38,10,9,19,33,55,-22,39,Not Applicable
+2020-21,18,Fulham,38,5,13,20,27,53,-26,28,Relegation to the EFL Championship
+2020-21,19,West Bromwich Albion,38,5,11,22,35,76,-41,26,Relegation to the EFL Championship
+2020-21,20,Sheffield United,38,7,2,29,20,63,-43,23,Relegation to the EFL Championship
+2021-22,1,Manchester City,38,29,6,3,99,26,73,93,Qualification for the Champions League group stage
+2021-22,2,Liverpool,38,28,8,2,94,26,68,92,Qualification for the Champions League group stage
+2021-22,3,Chelsea,38,21,11,6,76,33,43,74,Qualification for the Champions League group stage
+2021-22,4,Tottenham Hotspur,38,22,5,11,69,40,29,71,Qualification for the Champions League group stage
+2021-22,5,Arsenal,38,22,3,13,61,48,13,69,Qualification for the Europa League group stage[a]
+2021-22,6,Manchester United,38,16,10,12,57,57,0,58,Qualification for the Europa League group stage[a]
+2021-22,7,West Ham United,38,16,8,14,60,51,9,56,Qualification for the Europa Conference League play-off round[a]
+2021-22,8,Leicester City,38,14,10,14,62,59,3,52,Not Applicable
+2021-22,9,Brighton & Hove Albion,38,12,15,11,42,44,-2,51,Not Applicable
+2021-22,10,Wolverhampton Wanderers,38,15,6,17,38,43,-5,51,Not Applicable
+2021-22,11,Newcastle United,38,13,10,15,44,62,-18,49,Not Applicable
+2021-22,12,Crystal Palace,38,11,15,12,50,46,4,48,Not Applicable
+2021-22,13,Brentford,38,13,7,18,48,56,-8,46,Not Applicable
+2021-22,14,Aston Villa,38,13,6,19,52,54,-2,45,Not Applicable
+2021-22,15,Southampton,38,9,13,16,43,67,-24,40,Not Applicable
+2021-22,16,Everton,38,11,6,21,43,66,-23,39,Not Applicable
+2021-22,17,Leeds United,38,9,11,18,42,79,-37,38,Not Applicable
+2021-22,18,Burnley,38,7,14,17,34,53,-19,35,Relegation to the EFL Championship
+2021-22,19,Watford,38,6,5,27,34,77,-43,23,Relegation to the EFL Championship
+2021-22,20,Norwich City,38,5,7,26,23,84,-61,22,Relegation to the EFL Championship
